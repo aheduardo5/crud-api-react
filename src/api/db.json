@@ -1,0 +1,24 @@
+{
+  "pokemon_trainer": [
+    {
+      "id": 1686791149575,
+      "trainername": "Misty",
+      "pokename": "Staryu"
+    },
+    {
+      "id": 1686791167399,
+      "trainername": "Giovanni",
+      "pokename": "Persian"
+    },
+    {
+      "id": 1686791178135,
+      "trainername": "Gary ",
+      "pokename": "Blazyken"
+    },
+    {
+      "id": 1686791187199,
+      "trainername": "Ash K.",
+      "pokename": "Pikachu"
+    }
+  ]
+}
